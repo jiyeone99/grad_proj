@@ -1,0 +1,6 @@
+Node_Type,Count,Average_Distance
+normal,480,0.086095
+small,90,0.071868
+echo,90,0.06006
+random,90,0.534372
+lazy,90,0.061027

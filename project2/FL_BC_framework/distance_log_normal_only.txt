@@ -1,0 +1,359 @@
+[INFO] Aggregating results for round 1...
+[DEBUG] CID: 2, True: normal, Distance: 0.1895
+[DEBUG] CID: 1, True: normal, Distance: 0.1875
+[DEBUG] CID: 4, True: normal, Distance: 0.1838
+[DEBUG] CID: 6, True: normal, Distance: 0.1921
+[DEBUG] CID: 7, True: normal, Distance: 0.1822
+[DEBUG] CID: 9, True: normal, Distance: 0.1886
+[DEBUG] CID: 8, True: normal, Distance: 0.1897
+[DEBUG] CID: 3, True: normal, Distance: 0.1913
+[DEBUG] CID: 0, True: normal, Distance: 0.1928
+[DEBUG] CID: 5, True: normal, Distance: 0.1866
+
+[INFO] Aggregating results for round 2...
+[DEBUG] CID: 4, True: normal, Distance: 0.1349
+[DEBUG] CID: 8, True: normal, Distance: 0.1364
+[DEBUG] CID: 2, True: normal, Distance: 0.1392
+[DEBUG] CID: 0, True: normal, Distance: 0.1425
+[DEBUG] CID: 5, True: normal, Distance: 0.1478
+[DEBUG] CID: 6, True: normal, Distance: 0.1384
+[DEBUG] CID: 3, True: normal, Distance: 0.1375
+[DEBUG] CID: 7, True: normal, Distance: 0.1424
+[DEBUG] CID: 9, True: normal, Distance: 0.1360
+[DEBUG] CID: 1, True: normal, Distance: 0.1397
+
+[INFO] Aggregating results for round 3...
+[DEBUG] CID: 6, True: normal, Distance: 0.0894
+[DEBUG] CID: 8, True: normal, Distance: 0.0848
+[DEBUG] CID: 4, True: normal, Distance: 0.0834
+[DEBUG] CID: 1, True: normal, Distance: 0.0892
+[DEBUG] CID: 3, True: normal, Distance: 0.0948
+[DEBUG] CID: 9, True: normal, Distance: 0.0903
+[DEBUG] CID: 0, True: normal, Distance: 0.0940
+[DEBUG] CID: 7, True: normal, Distance: 0.0869
+[DEBUG] CID: 5, True: normal, Distance: 0.0889
+[DEBUG] CID: 2, True: normal, Distance: 0.0933
+
+[INFO] Aggregating results for round 4...
+[DEBUG] CID: 0, True: normal, Distance: 0.0736
+[DEBUG] CID: 6, True: normal, Distance: 0.0729
+[DEBUG] CID: 1, True: normal, Distance: 0.0711
+[DEBUG] CID: 5, True: normal, Distance: 0.0779
+[DEBUG] CID: 7, True: normal, Distance: 0.0715
+[DEBUG] CID: 2, True: normal, Distance: 0.0730
+[DEBUG] CID: 3, True: normal, Distance: 0.0715
+[DEBUG] CID: 4, True: normal, Distance: 0.0700
+[DEBUG] CID: 9, True: normal, Distance: 0.0725
+[DEBUG] CID: 8, True: normal, Distance: 0.0694
+
+[INFO] Aggregating results for round 5...
+[DEBUG] CID: 8, True: normal, Distance: 0.0599
+[DEBUG] CID: 1, True: normal, Distance: 0.0645
+[DEBUG] CID: 3, True: normal, Distance: 0.0634
+[DEBUG] CID: 5, True: normal, Distance: 0.0610
+[DEBUG] CID: 4, True: normal, Distance: 0.0596
+[DEBUG] CID: 2, True: normal, Distance: 0.0625
+[DEBUG] CID: 0, True: normal, Distance: 0.0614
+[DEBUG] CID: 6, True: normal, Distance: 0.0626
+[DEBUG] CID: 9, True: normal, Distance: 0.0658
+[DEBUG] CID: 7, True: normal, Distance: 0.0610
+
+[INFO] Aggregating results for round 6...
+[DEBUG] CID: 8, True: normal, Distance: 0.0516
+[DEBUG] CID: 4, True: normal, Distance: 0.0523
+[DEBUG] CID: 0, True: normal, Distance: 0.0577
+[DEBUG] CID: 6, True: normal, Distance: 0.0525
+[DEBUG] CID: 3, True: normal, Distance: 0.0559
+[DEBUG] CID: 7, True: normal, Distance: 0.0526
+[DEBUG] CID: 5, True: normal, Distance: 0.0530
+[DEBUG] CID: 9, True: normal, Distance: 0.0553
+[DEBUG] CID: 1, True: normal, Distance: 0.0541
+[DEBUG] CID: 2, True: normal, Distance: 0.0530
+
+[INFO] Aggregating results for round 7...
+[DEBUG] CID: 8, True: normal, Distance: 0.0470
+[DEBUG] CID: 3, True: normal, Distance: 0.0499
+[DEBUG] CID: 5, True: normal, Distance: 0.0480
+[DEBUG] CID: 9, True: normal, Distance: 0.0496
+[DEBUG] CID: 6, True: normal, Distance: 0.0479
+[DEBUG] CID: 1, True: normal, Distance: 0.0475
+[DEBUG] CID: 7, True: normal, Distance: 0.0460
+[DEBUG] CID: 4, True: normal, Distance: 0.0466
+[DEBUG] CID: 2, True: normal, Distance: 0.0482
+[DEBUG] CID: 0, True: normal, Distance: 0.0470
+
+[INFO] Aggregating results for round 8...
+[DEBUG] CID: 5, True: normal, Distance: 0.0434
+[DEBUG] CID: 4, True: normal, Distance: 0.0430
+[DEBUG] CID: 6, True: normal, Distance: 0.0447
+[DEBUG] CID: 0, True: normal, Distance: 0.0441
+[DEBUG] CID: 2, True: normal, Distance: 0.0420
+[DEBUG] CID: 9, True: normal, Distance: 0.0448
+[DEBUG] CID: 8, True: normal, Distance: 0.0415
+[DEBUG] CID: 3, True: normal, Distance: 0.0432
+[DEBUG] CID: 1, True: normal, Distance: 0.0429
+[DEBUG] CID: 7, True: normal, Distance: 0.0454
+
+[INFO] Aggregating results for round 9...
+[DEBUG] CID: 5, True: normal, Distance: 0.0400
+[DEBUG] CID: 0, True: normal, Distance: 0.0420
+[DEBUG] CID: 6, True: normal, Distance: 0.0404
+[DEBUG] CID: 2, True: normal, Distance: 0.0429
+[DEBUG] CID: 7, True: normal, Distance: 0.0400
+[DEBUG] CID: 3, True: normal, Distance: 0.0419
+[DEBUG] CID: 1, True: normal, Distance: 0.0409
+[DEBUG] CID: 9, True: normal, Distance: 0.0419
+[DEBUG] CID: 4, True: normal, Distance: 0.0378
+[DEBUG] CID: 8, True: normal, Distance: 0.0393
+
+[INFO] Aggregating results for round 10...
+[DEBUG] CID: 4, True: normal, Distance: 0.0371
+[DEBUG] CID: 7, True: normal, Distance: 0.0385
+[DEBUG] CID: 5, True: normal, Distance: 0.0349
+[DEBUG] CID: 3, True: normal, Distance: 0.0385
+[DEBUG] CID: 8, True: normal, Distance: 0.0341
+[DEBUG] CID: 2, True: normal, Distance: 0.0356
+[DEBUG] CID: 1, True: normal, Distance: 0.0370
+[DEBUG] CID: 0, True: normal, Distance: 0.0408
+[DEBUG] CID: 6, True: normal, Distance: 0.0385
+[DEBUG] CID: 9, True: normal, Distance: 0.0371
+
+[INFO] Aggregating results for round 11...
+[DEBUG] CID: 4, True: normal, Distance: 0.0352
+[DEBUG] CID: 6, True: normal, Distance: 0.0367
+[DEBUG] CID: 5, True: normal, Distance: 0.0359
+[DEBUG] CID: 3, True: normal, Distance: 0.0353
+[DEBUG] CID: 9, True: normal, Distance: 0.0402
+[DEBUG] CID: 2, True: normal, Distance: 0.0344
+[DEBUG] CID: 8, True: normal, Distance: 0.0316
+[DEBUG] CID: 1, True: normal, Distance: 0.0365
+[DEBUG] CID: 0, True: normal, Distance: 0.0357
+[DEBUG] CID: 7, True: normal, Distance: 0.0355
+
+[INFO] Aggregating results for round 12...
+[DEBUG] CID: 7, True: normal, Distance: 0.0313
+[DEBUG] CID: 3, True: normal, Distance: 0.0331
+[DEBUG] CID: 4, True: normal, Distance: 0.0308
+[DEBUG] CID: 8, True: normal, Distance: 0.0339
+[DEBUG] CID: 2, True: normal, Distance: 0.0335
+[DEBUG] CID: 6, True: normal, Distance: 0.0306
+[DEBUG] CID: 0, True: normal, Distance: 0.0325
+[DEBUG] CID: 1, True: normal, Distance: 0.0338
+[DEBUG] CID: 9, True: normal, Distance: 0.0331
+[DEBUG] CID: 5, True: normal, Distance: 0.0308
+
+[INFO] Aggregating results for round 13...
+[DEBUG] CID: 0, True: normal, Distance: 0.0331
+[DEBUG] CID: 7, True: normal, Distance: 0.0291
+[DEBUG] CID: 1, True: normal, Distance: 0.0316
+[DEBUG] CID: 4, True: normal, Distance: 0.0302
+[DEBUG] CID: 8, True: normal, Distance: 0.0306
+[DEBUG] CID: 5, True: normal, Distance: 0.0311
+[DEBUG] CID: 3, True: normal, Distance: 0.0314
+[DEBUG] CID: 6, True: normal, Distance: 0.0304
+[DEBUG] CID: 2, True: normal, Distance: 0.0311
+[DEBUG] CID: 9, True: normal, Distance: 0.0357
+
+[INFO] Aggregating results for round 14...
+[DEBUG] CID: 1, True: normal, Distance: 0.0304
+[DEBUG] CID: 7, True: normal, Distance: 0.0306
+[DEBUG] CID: 0, True: normal, Distance: 0.0278
+[DEBUG] CID: 4, True: normal, Distance: 0.0268
+[DEBUG] CID: 3, True: normal, Distance: 0.0296
+[DEBUG] CID: 6, True: normal, Distance: 0.0336
+[DEBUG] CID: 8, True: normal, Distance: 0.0309
+[DEBUG] CID: 2, True: normal, Distance: 0.0296
+[DEBUG] CID: 9, True: normal, Distance: 0.0296
+[DEBUG] CID: 5, True: normal, Distance: 0.0306
+
+[INFO] Aggregating results for round 15...
+[DEBUG] CID: 6, True: normal, Distance: 0.0307
+[DEBUG] CID: 1, True: normal, Distance: 0.0283
+[DEBUG] CID: 3, True: normal, Distance: 0.0274
+[DEBUG] CID: 7, True: normal, Distance: 0.0259
+[DEBUG] CID: 0, True: normal, Distance: 0.0255
+[DEBUG] CID: 4, True: normal, Distance: 0.0303
+[DEBUG] CID: 5, True: normal, Distance: 0.0298
+[DEBUG] CID: 2, True: normal, Distance: 0.0293
+[DEBUG] CID: 8, True: normal, Distance: 0.0282
+[DEBUG] CID: 9, True: normal, Distance: 0.0306
+
+[INFO] Aggregating results for round 16...
+[DEBUG] CID: 0, True: normal, Distance: 0.0342
+[DEBUG] CID: 4, True: normal, Distance: 0.0338
+[DEBUG] CID: 5, True: normal, Distance: 0.0295
+[DEBUG] CID: 1, True: normal, Distance: 0.0350
+[DEBUG] CID: 6, True: normal, Distance: 0.0262
+[DEBUG] CID: 7, True: normal, Distance: 0.0277
+[DEBUG] CID: 2, True: normal, Distance: 0.0290
+[DEBUG] CID: 9, True: normal, Distance: 0.0343
+[DEBUG] CID: 8, True: normal, Distance: 0.0269
+[DEBUG] CID: 3, True: normal, Distance: 0.0316
+
+[INFO] Aggregating results for round 17...
+[DEBUG] CID: 4, True: normal, Distance: 0.0242
+[DEBUG] CID: 5, True: normal, Distance: 0.0253
+[DEBUG] CID: 1, True: normal, Distance: 0.0199
+[DEBUG] CID: 0, True: normal, Distance: 0.0217
+[DEBUG] CID: 8, True: normal, Distance: 0.0255
+[DEBUG] CID: 6, True: normal, Distance: 0.0273
+[DEBUG] CID: 9, True: normal, Distance: 0.0257
+[DEBUG] CID: 2, True: normal, Distance: 0.0244
+[DEBUG] CID: 3, True: normal, Distance: 0.0235
+[DEBUG] CID: 7, True: normal, Distance: 0.0280
+
+[INFO] Aggregating results for round 18...
+[DEBUG] CID: 7, True: normal, Distance: 0.0241
+[DEBUG] CID: 6, True: normal, Distance: 0.0308
+[DEBUG] CID: 1, True: normal, Distance: 0.0251
+[DEBUG] CID: 4, True: normal, Distance: 0.0228
+[DEBUG] CID: 9, True: normal, Distance: 0.0197
+[DEBUG] CID: 3, True: normal, Distance: 0.0225
+[DEBUG] CID: 0, True: normal, Distance: 0.0273
+[DEBUG] CID: 8, True: normal, Distance: 0.0247
+[DEBUG] CID: 5, True: normal, Distance: 0.0305
+[DEBUG] CID: 2, True: normal, Distance: 0.0251
+
+[INFO] Aggregating results for round 19...
+[DEBUG] CID: 0, True: normal, Distance: 0.0225
+[DEBUG] CID: 6, True: normal, Distance: 0.0210
+[DEBUG] CID: 7, True: normal, Distance: 0.0232
+[DEBUG] CID: 1, True: normal, Distance: 0.0264
+[DEBUG] CID: 8, True: normal, Distance: 0.0242
+[DEBUG] CID: 9, True: normal, Distance: 0.0272
+[DEBUG] CID: 2, True: normal, Distance: 0.0385
+[DEBUG] CID: 4, True: normal, Distance: 0.0253
+[DEBUG] CID: 5, True: normal, Distance: 0.0336
+[DEBUG] CID: 3, True: normal, Distance: 0.0354
+
+[INFO] Aggregating results for round 20...
+[DEBUG] CID: 7, True: normal, Distance: 0.0261
+[DEBUG] CID: 8, True: normal, Distance: 0.0296
+[DEBUG] CID: 3, True: normal, Distance: 0.0227
+[DEBUG] CID: 2, True: normal, Distance: 0.0153
+[DEBUG] CID: 5, True: normal, Distance: 0.0231
+[DEBUG] CID: 0, True: normal, Distance: 0.0300
+[DEBUG] CID: 6, True: normal, Distance: 0.0243
+[DEBUG] CID: 4, True: normal, Distance: 0.0239
+[DEBUG] CID: 9, True: normal, Distance: 0.0344
+[DEBUG] CID: 1, True: normal, Distance: 0.0274
+
+[INFO] Aggregating results for round 21...
+[DEBUG] CID: 5, True: normal, Distance: 0.0221
+[DEBUG] CID: 4, True: normal, Distance: 0.0197
+[DEBUG] CID: 3, True: normal, Distance: 0.0315
+[DEBUG] CID: 9, True: normal, Distance: 0.0243
+[DEBUG] CID: 8, True: normal, Distance: 0.0205
+[DEBUG] CID: 7, True: normal, Distance: 0.0355
+[DEBUG] CID: 6, True: normal, Distance: 0.0197
+[DEBUG] CID: 0, True: normal, Distance: 0.0328
+[DEBUG] CID: 2, True: normal, Distance: 0.0347
+[DEBUG] CID: 1, True: normal, Distance: 0.0276
+
+[INFO] Aggregating results for round 22...
+[DEBUG] CID: 4, True: normal, Distance: 0.0215
+[DEBUG] CID: 6, True: normal, Distance: 0.0297
+[DEBUG] CID: 7, True: normal, Distance: 0.0356
+[DEBUG] CID: 8, True: normal, Distance: 0.0264
+[DEBUG] CID: 9, True: normal, Distance: 0.0223
+[DEBUG] CID: 5, True: normal, Distance: 0.0243
+[DEBUG] CID: 2, True: normal, Distance: 0.0259
+[DEBUG] CID: 3, True: normal, Distance: 0.0174
+[DEBUG] CID: 0, True: normal, Distance: 0.0233
+[DEBUG] CID: 1, True: normal, Distance: 0.0172
+
+[INFO] Aggregating results for round 23...
+[DEBUG] CID: 9, True: normal, Distance: 0.0369
+[DEBUG] CID: 2, True: normal, Distance: 0.0229
+[DEBUG] CID: 0, True: normal, Distance: 0.0360
+[DEBUG] CID: 4, True: normal, Distance: 0.0274
+[DEBUG] CID: 1, True: normal, Distance: 0.0275
+[DEBUG] CID: 7, True: normal, Distance: 0.0079
+[DEBUG] CID: 3, True: normal, Distance: 0.0214
+[DEBUG] CID: 6, True: normal, Distance: 0.0117
+[DEBUG] CID: 8, True: normal, Distance: 0.0260
+[DEBUG] CID: 5, True: normal, Distance: 0.0160
+
+[INFO] Aggregating results for round 24...
+[DEBUG] CID: 2, True: normal, Distance: 0.0146
+[DEBUG] CID: 3, True: normal, Distance: 0.0129
+[DEBUG] CID: 1, True: normal, Distance: 0.0082
+[DEBUG] CID: 5, True: normal, Distance: 0.0101
+[DEBUG] CID: 0, True: normal, Distance: 0.0090
+[DEBUG] CID: 7, True: normal, Distance: 0.0284
+[DEBUG] CID: 9, True: normal, Distance: 0.0074
+[DEBUG] CID: 8, True: normal, Distance: 0.0103
+[DEBUG] CID: 4, True: normal, Distance: 0.0324
+[DEBUG] CID: 6, True: normal, Distance: 0.0347
+
+[INFO] Aggregating results for round 25...
+[DEBUG] CID: 8, True: normal, Distance: 0.0074
+[DEBUG] CID: 3, True: normal, Distance: 0.0350
+[DEBUG] CID: 9, True: normal, Distance: 0.0103
+[DEBUG] CID: 1, True: normal, Distance: 0.0074
+[DEBUG] CID: 2, True: normal, Distance: 0.0331
+[DEBUG] CID: 6, True: normal, Distance: 0.0056
+[DEBUG] CID: 7, True: normal, Distance: 0.0065
+[DEBUG] CID: 4, True: normal, Distance: 0.0064
+[DEBUG] CID: 0, True: normal, Distance: 0.0063
+[DEBUG] CID: 5, True: normal, Distance: 0.0358
+
+[INFO] Aggregating results for round 26...
+[DEBUG] CID: 3, True: normal, Distance: 0.0033
+[DEBUG] CID: 8, True: normal, Distance: 0.0073
+[DEBUG] CID: 1, True: normal, Distance: 0.0401
+[DEBUG] CID: 4, True: normal, Distance: 0.0069
+[DEBUG] CID: 6, True: normal, Distance: 0.0058
+[DEBUG] CID: 2, True: normal, Distance: 0.0051
+[DEBUG] CID: 5, True: normal, Distance: 0.0037
+[DEBUG] CID: 9, True: normal, Distance: 0.0334
+[DEBUG] CID: 0, True: normal, Distance: 0.0378
+[DEBUG] CID: 7, True: normal, Distance: 0.0116
+
+[INFO] Aggregating results for round 27...
+[DEBUG] CID: 5, True: normal, Distance: 0.0049
+[DEBUG] CID: 3, True: normal, Distance: 0.0042
+[DEBUG] CID: 2, True: normal, Distance: 0.0029
+[DEBUG] CID: 9, True: normal, Distance: 0.0027
+[DEBUG] CID: 8, True: normal, Distance: 0.0388
+[DEBUG] CID: 7, True: normal, Distance: 0.0062
+[DEBUG] CID: 4, True: normal, Distance: 0.0304
+[DEBUG] CID: 6, True: normal, Distance: 0.0344
+[DEBUG] CID: 1, True: normal, Distance: 0.0052
+[DEBUG] CID: 0, True: normal, Distance: 0.0034
+
+[INFO] Aggregating results for round 28...
+[DEBUG] CID: 0, True: normal, Distance: 0.0050
+[DEBUG] CID: 2, True: normal, Distance: 0.0050
+[DEBUG] CID: 1, True: normal, Distance: 0.0046
+[DEBUG] CID: 6, True: normal, Distance: 0.0017
+[DEBUG] CID: 3, True: normal, Distance: 0.0369
+[DEBUG] CID: 5, True: normal, Distance: 0.0372
+[DEBUG] CID: 8, True: normal, Distance: 0.0020
+[DEBUG] CID: 9, True: normal, Distance: 0.0037
+[DEBUG] CID: 4, True: normal, Distance: 0.0035
+[DEBUG] CID: 7, True: normal, Distance: 0.0035
+
+[INFO] Aggregating results for round 29...
+[DEBUG] CID: 5, True: normal, Distance: 0.0032
+[DEBUG] CID: 8, True: normal, Distance: 0.0025
+[DEBUG] CID: 9, True: normal, Distance: 0.0053
+[DEBUG] CID: 7, True: normal, Distance: 0.0342
+[DEBUG] CID: 0, True: normal, Distance: 0.0038
+[DEBUG] CID: 1, True: normal, Distance: 0.0359
+[DEBUG] CID: 2, True: normal, Distance: 0.0441
+[DEBUG] CID: 3, True: normal, Distance: 0.0022
+[DEBUG] CID: 4, True: normal, Distance: 0.0043
+[DEBUG] CID: 6, True: normal, Distance: 0.0032
+
+[INFO] Aggregating results for round 30...
+[DEBUG] CID: 4, True: normal, Distance: 0.0176
+[DEBUG] CID: 2, True: normal, Distance: 0.0028
+[DEBUG] CID: 6, True: normal, Distance: 0.0354
+[DEBUG] CID: 3, True: normal, Distance: 0.0066
+[DEBUG] CID: 5, True: normal, Distance: 0.0041
+[DEBUG] CID: 0, True: normal, Distance: 0.0383
+[DEBUG] CID: 1, True: normal, Distance: 0.0025
+[DEBUG] CID: 9, True: normal, Distance: 0.0441
+[DEBUG] CID: 8, True: normal, Distance: 0.0341
+[DEBUG] CID: 7, True: normal, Distance: 0.0029

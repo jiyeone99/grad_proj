@@ -1,0 +1,9 @@
+INFO:flwr:Starting Flower server, config: num_rounds=100, no round_timeout
+INFO:flwr:Flower ECE: gRPC server running (100 rounds), SSL is disabled
+INFO:flwr:[INIT]
+INFO:flwr:Requesting initial parameters from one random client
+INFO:flwr:Received initial parameters from one random client
+INFO:flwr:Evaluating initial global parameters
+INFO:flwr:
+INFO:flwr:[ROUND 1]
+INFO:flwr:configure_fit: strategy sampled 2 clients (out of 2)
